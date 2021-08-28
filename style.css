@@ -1,0 +1,154 @@
+.img_bean_bronze{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.img_bean_gold{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.img_bean_silver{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.div_bean_bronze{
+    background-image:url("../cup-bronze\ \(1\).png");
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;   
+}
+.div_bean_gold{
+    background-image:url("../cup-gold.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+
+}
+.div_bean_silver{
+    background-image:url("../cup-silver.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+}
+
+.div_blok_bronze{
+    background-color: white;
+    width: 600px;
+    height: 500px;
+    margin-right: 30px;
+    display:inline;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.div_blok_gold{
+    background-color: white;
+    width: 600px;
+    height: 700px;
+    display: inline;
+}
+.div_blok_silver{
+    background-color: white;
+    width: 600px;
+    height: 500px; 
+    margin-left: 30px; 
+    display:inline;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+body
+{
+   background-color: rgb(241, 221, 129); 
+   display: flex;
+   justify-content: center;
+} 
+.h_one_bronez{
+ text-align: center;
+ font-family: 
+}
+.div_bean_bronze{
+
+}
+.img_smoke_bronze{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+.h_two_bronze{
+ text-align: center;
+ font-family: 
+}
+.p_bronze{
+ text-align: center;
+ font-family: 
+}
+.h_one_gold{
+ text-align: center;
+ font-family: 
+}
+.img_smoke_gold{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+.div_bean_gold{
+
+}
+.h_two_gold{
+ text-align: center;
+ font-family: 
+}
+.p_gold{  
+ text-align: center;
+ font-family: 
+}
+.h_one_silver{
+    text-align: center;
+    font-family: 
+}
+.img_smoke_silver{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+.div_bean_silver{
+
+}
+.h_two_silver{
+    text-align: center;
+    font-family: 
+}
+.p_silver{
+    text-align: center;
+    font-family:
+}
+.li_bronze{
+    list-style-type: none;
+}
+.li_gold{
+    list-style-type: none;
+}
+.li_silver{
+    list-style-type: none;
+}
+ul{
+    display: flex;
+}
+@media (min-width: 320px and max-width: 500px and min-height: 568px and max-height:830px){
+    ul{
+        display:none;
+    }
+}
